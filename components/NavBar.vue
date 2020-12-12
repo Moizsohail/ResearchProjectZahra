@@ -66,8 +66,8 @@ export default {
           path: '/research',
         },
         {
-          title: 'Teaching',
-          path: '/teaching',
+          title: 'Courses',
+          path: '/course',
         },
         {
           title: 'Success Stories',

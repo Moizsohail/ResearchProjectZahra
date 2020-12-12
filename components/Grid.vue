@@ -34,7 +34,7 @@ export default {
   computed: {
     link() {
       return (link) => {
-        return '/project/' + link
+        return this.$route.path + '/' + link
       }
     },
   },
