@@ -1,6 +1,7 @@
 <template>
   <div>
     <NavBar></NavBar>
+
     <v-container>
       <Carousel></Carousel>
       <v-row>
